@@ -1,1 +1,5 @@
 *.dat
+results/
+*.pyc
+*.o
+build/
